@@ -1,0 +1,5 @@
+# This is an example file for check_link.ps1.
+# Format: URL,Source Page Description
+# Lines starting with # are ignored.
+http://www.example.com, remarks
+https://www.example.com, remarks
